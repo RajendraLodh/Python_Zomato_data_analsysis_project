@@ -3,7 +3,7 @@ Zomato_data_analysis_project
 
 Imported data Sets 
 1.	Zomato.csv “encoding = latin-1”
-2.	Countr-code.xlsx
+2.	Country-code.xlsx
 
 Merging both data sets 
 
